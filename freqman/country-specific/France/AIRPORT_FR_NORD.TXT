@@ -1,0 +1,22 @@
+# Description: French LILLE airport frequencies
+# Author: gullradriel
+
+########################
+# LILLE LESQUIN (LFQQ) — COMPLET AD 2.18 (AIP AIRAC 2026-01-22)
+########################
+
+# HOR: H24 ; Canal-8.33
+f=126480000,m=AM,bw=DSB 6k,d=FIS-LILLE-SIV1
+# HOR: H24 ; Canal-8.33
+f=127015000,m=AM,bw=DSB 6k,d=FIS-LILLE-SIV2
+# HOR: H24 ; Canal-8.33
+f=129360000,m=AM,bw=DSB 6k,d=FIS-LILLE-SIV3-5
+# HOR: H24 ; Canal-8.33
+f=132610000,m=AM,bw=DSB 6k,d=FIS-LILLE-SIV4.1-4.2
+# HOR: H24 ; Canal-8.33
+f=134825000,m=AM,bw=DSB 6k,d=FIS-LILLE-SIV6.1-6.4
+# HOR: HO
+f=120275000,m=AM,bw=DSB 6k,d=APP-LILLE-QW-TMA2
+# HOR: HO
+f=122060000,m=AM,bw=DSB 6k,d=APP-LILLE-QD-TMA4.1-4.2
+
